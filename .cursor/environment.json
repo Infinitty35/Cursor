@@ -1,0 +1,5 @@
+{
+  "name": "Cursor baseline",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh"
+}
